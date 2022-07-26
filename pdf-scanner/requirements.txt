@@ -1,0 +1,3 @@
+fitz
+pandas
+PyMuPDF
